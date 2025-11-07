@@ -89,3 +89,8 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+
+<img width="319" height="568" alt="Screenshot 2025-11-07 at 10 33 24 PM" src="https://github.com/user-attachments/assets/91c4fbfc-68ef-4263-aa77-ff23c689f47f" />
+
